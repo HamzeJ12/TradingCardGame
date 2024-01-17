@@ -1,3 +1,3 @@
 # TradingCardGame
 
-Group Memebers : Abdisalan Mohamed
+Group Memebers : Abdisalan Mohamed, Chase Shertzer
